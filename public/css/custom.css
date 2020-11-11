@@ -1,0 +1,49 @@
+.fundo{
+	background-color: #191970;
+}
+
+.titulo{
+	text-align: left;
+	text-shadow: 0 0 10px black;
+}
+
+.alerta{
+	margin-top: 10px;
+}
+
+.preeche{
+	border: 10px;
+}
+  .topo{
+	  background-color: white;
+	  margin-top: 12px;
+  }
+
+  
+  .alinhamento{
+	align-items: left;
+	justify-content: left;
+	display:flex;
+	margin:10%;
+  }
+
+  .cartao{
+	  border: 1;
+	  border: 2px solid;
+	  border-inline-color: black;
+	  width:500px;
+	  height: 600px;
+
+  }
+
+  .texto-disciplina{
+	  font-size: 100px;
+	  text-align: center;
+	  font-weight: bold;
+  }
+
+  .texto-disciplina span h5{
+	border-top: 2px solid white;
+	padding-top: 1px;
+	font-size: 90px;
+  }
